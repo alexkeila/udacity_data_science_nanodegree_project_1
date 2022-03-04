@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/7256682/154767526-b3135f7f-5da9-481c-8f22-d1f504f16d3f.png)
 
-# Udacity Data Science Project
+# Data Science Nanodegree - Project 1: Writing a Data Science Blog Post
 
 This project is related to the Data Science Nanodegree on Udacity (https://classroom.udacity.com/nanodegrees/nd025/dashboard/overview)
 
