@@ -9,7 +9,7 @@ I have also written a post at Medium describing this project and the results. It
 
 This repository consists of only one file: a [Jupyter Notebook](https://github.com/alexkeila/udacity_data_science_nanodegree/blob/main/Project%20-%20Write%20a%20Data%20Science%20Blog%20Post.ipynb) with all the steps of my Data Science Project
 
-All code are in a way thar anyone can run all cells in order and everything should work fine!!
+All code are in a way that anyone can run all cells in order and everything should work fine!!
 
 I used a dataset about weather data from Brazil to answer some questions. All the details are very well documented and easy to read inside the notebook.
 
