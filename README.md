@@ -13,7 +13,7 @@ All code are in a way that anyone can run all cells in order and everything shou
 
 I used a dataset about weather data from Brazil to answer some questions. All the details are very well documented and easy to read inside the notebook.
 
-I followed the logical steps from CRISP-DM, skiping some parts that were not insteresting or not needed for this project.
+I followed the logical steps from CRISP-DM, skiping some parts that were not interesting or not needed for this project.
 
 1. Data Understanding and Collecting
 2. Data Preparation
